@@ -1,0 +1,10 @@
+C:\Users\mailc\Documents\Projects\DigitalDesign\DigitalDesign\bin\Debug\DigitalDesign.exe.config
+C:\Users\mailc\Documents\Projects\DigitalDesign\DigitalDesign\bin\Debug\DigitalDesign.exe
+C:\Users\mailc\Documents\Projects\DigitalDesign\DigitalDesign\bin\Debug\DigitalDesign.pdb
+C:\Users\mailc\Documents\Projects\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.csproj.AssemblyReference.cache
+C:\Users\mailc\Documents\Projects\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.Properties.Resources.resources
+C:\Users\mailc\Documents\Projects\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.csproj.GenerateResource.cache
+C:\Users\mailc\Documents\Projects\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.csproj.CoreCompileInputs.cache
+C:\Users\mailc\Documents\Projects\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.exe
+C:\Users\mailc\Documents\Projects\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.pdb
+C:\Users\mailc\Documents\Projects\DigitalDesign\DigitalDesign\obj\Debug\DigitalDesign.Form1.resources
